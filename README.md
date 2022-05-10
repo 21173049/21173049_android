@@ -15,3 +15,8 @@
 <img width="" height="" src="./pic/5주차_실행 화면2.png"></img>
 <img width="" height="" src="./pic/5주차_소스 코드1.png"></img>
 <img width="" height="" src="./pic/5주차_소스 코드2.png"></img>
+
+# 10주차 과제
+
+<img width="" height="" src="./pic/10주차_main.png"></img>
+<img width="" height="" src="./pic/10주차_menu.png"></img>
